@@ -10,7 +10,7 @@ __main FUNCTION
  
         VLDR.F32 s15,=11.0; our radius 11
 		VLDR.F32 s16,= 1;
-		VLDR.F32 S17,= 45;
+		
 		VLDR.F32 s12,=0.0; angle in degrees
 		VLDR.F32 s18,=50.0; center X
 		VLDR.F32 s19,=100.0;  center Y
